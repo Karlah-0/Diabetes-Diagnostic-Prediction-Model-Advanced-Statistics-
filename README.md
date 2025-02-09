@@ -28,6 +28,6 @@ A simplification can be seen below:
 *0 = no diabetes, 1 = prediabetes or diabetes
 Source.*
 #### *With data found in UCI Machine Learning Repository.*
-<a href=" https://archive.ics.uci.edu/dataset/891/cdc+diabetes+health+indicators"> </a>
+<a href=" https://archive.ics.uci.edu/dataset/891/cdc+diabetes+health+indicators"> Aquí </a>
 ### How to run the code?
 Cell by cell from the beginning.
